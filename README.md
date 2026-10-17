@@ -1,4 +1,4 @@
-# sun-skills
+# skills
 
 Claude Code skills by Sun.
 
@@ -13,17 +13,17 @@ Claude Code skills by Sun.
 Run inside Claude Code:
 
 ```
-/plugin marketplace add redbiiddsun/sun-skills
-/plugin install sun-code-standart@sun-skills
+/plugin marketplace add redbiiddsun/skills
+/plugin install sun-code-standart@skills
 ```
 
-Update later with `/plugin marketplace update sun-skills`.
+Update later with `/plugin marketplace update skills`.
 
 **Option 2 — copy the skill folder**
 
 ```bash
-git clone https://github.com/redbiiddsun/sun-skills.git
-cp -R sun-skills/skills/sun-code-standart ~/.claude/skills/
+git clone https://github.com/redbiiddsun/skills.git
+cp -R skills/skills/sun-code-standart ~/.claude/skills/
 ```
 
 ## Use
