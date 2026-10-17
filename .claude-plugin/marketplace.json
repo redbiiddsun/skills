@@ -1,0 +1,13 @@
+{
+  "name": "sun-skills",
+  "owner": { "name": "redbiiddsun" },
+  "plugins": [
+    {
+      "name": "sun-code-standart",
+      "description": "Naming/readability standard: no magic strings or numbers, no single-letter names, meaningful names.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/sun-code-standart"]
+    }
+  ]
+}
