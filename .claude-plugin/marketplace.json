@@ -8,6 +8,20 @@
       "source": "./",
       "strict": false,
       "skills": ["./skills/sun-code-standart"]
+    },
+    {
+      "name": "clean-code",
+      "description": "Clean code baseline for any language or framework: naming, small functions, services, constants/enums, models, simplicity.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/clean-code"]
+    },
+    {
+      "name": "review-loop",
+      "description": "Tech lead (reviews a change, read-only) and developer (fixes the findings) agents for a post-change review loop.",
+      "source": "./",
+      "strict": false,
+      "agents": ["./agents/tech-lead.md", "./agents/developer.md"]
     }
   ]
 }
