@@ -6,6 +6,7 @@ Claude Code skills by Sun.
 |-------|--------------|
 | [sun-code-standart](skills/sun-code-standart/SKILL.md) | No magic strings/numbers, no single-letter names, meaningful names |
 | [clean-code](skills/clean-code/SKILL.md) | Clean code baseline for any language/framework: naming, functions, services, constants/enums, models, simplicity |
+| [code-principles-review](skills/code-principles-review/SKILL.md) | Ranked Clean Code / DRY / KISS / SOLID review per layer, any language/framework |
 
 | Agent (plugin `review-loop`) | What it does |
 |-------|--------------|
@@ -24,6 +25,7 @@ Run inside Claude Code:
 /plugin marketplace add redbiiddsun/skills
 /plugin install sun-code-standart@skills
 /plugin install clean-code@skills
+/plugin install code-principles-review@skills
 /plugin install review-loop@skills
 ```
 

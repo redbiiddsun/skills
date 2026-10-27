@@ -17,6 +17,13 @@
       "skills": ["./skills/clean-code"]
     },
     {
+      "name": "code-principles-review",
+      "description": "Ranked Clean Code / DRY / KISS / SOLID review per layer, for any language or framework.",
+      "source": "./",
+      "strict": false,
+      "skills": ["./skills/code-principles-review"]
+    },
+    {
       "name": "review-loop",
       "description": "Tech lead (reviews a change, read-only) and developer (fixes the findings) agents for a post-change review loop.",
       "source": "./",
