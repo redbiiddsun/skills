@@ -1,5 +1,5 @@
 ---
-name: sun-code-standart
+name: sun-code-standard
 description: Enforce naming/readability standards when writing or reviewing code — no magic strings or numbers, no single-letter variables (a, i, o, k, etc.), meaningful names. Use when the user says "apply the code standard", "no magic strings", "meaningful variable names", "clean up naming", "sun standard", or asks to review/refactor code for readability.
 ---
 

@@ -3,11 +3,11 @@
   "owner": { "name": "redbiiddsun" },
   "plugins": [
     {
-      "name": "sun-code-standart",
+      "name": "sun-code-standard",
       "description": "Naming/readability standard: no magic strings or numbers, no single-letter names, meaningful names.",
       "source": "./",
       "strict": false,
-      "skills": ["./skills/sun-code-standart"]
+      "skills": ["./skills/sun-code-standard"]
     },
     {
       "name": "clean-code",
